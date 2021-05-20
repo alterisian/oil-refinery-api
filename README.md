@@ -42,3 +42,7 @@ This repo gets automatically deployed on each push to `master` to [Heroku](https
 - [ ] Read the list of refineries from wikipedia and generate JSON.
 - [ ] Add some persistency.
 - [ ] Query for individual refineries.
+
+### Update 20th May
+- Cloned the repo. We added the wikipedia client. We added a scraper. We added a test to see if the scraper retrieves a refinery. It's green.
+- Next: Would be take the output, and find all the countries. Then the refineries list, then extract the refinery data by regex.
