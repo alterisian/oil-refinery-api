@@ -12,6 +12,9 @@ We envisage visualisations for journalism, and local government, and personal un
 ### Source of data.
 
 Wikipedia has had reports of the oil refineries pushed to it. And so has the coal refineries data.
+1. Oil Refineries: https://en.wikipedia.org/wiki/List_of_oil_refineries 
+2. Coal Mines: https://en.wikipedia.org/wiki/List_of_coalfields
+
 
 ### Development Methodology
 
