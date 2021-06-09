@@ -27,6 +27,8 @@ This template has a fully-automated dev setup for [Gitpod](https://docs.gitlab.c
 
 If you open this project in Gitpod, you'll get all dependencies pre-installed and Rails server will open a web preview.
 
+Open here: https://gitpod.io/#https://github.com/alterisian/pollutant-api/ 
+
 ### Ruby on Rails template project
 
 This project is based on a GitLab [Project Template](https://docs.gitlab.com/ee/gitlab-basics/create-project.html).
